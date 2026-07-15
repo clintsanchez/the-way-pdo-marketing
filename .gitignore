@@ -1,0 +1,39 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node/npm (if using)
+node_modules/
+npm-debug.log
+
+# Environment
+.env
+.env.local
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Temporary files
+*.tmp
+*._*
+
+# Large video files (if needed, adjust as required)
+*.mov
+*.mp4
+*.avi
+
+# Compiled files
+*.psd~
+*.ai~
+
+# Specific to this project (add as needed)
+# 12-Archive/* (optionally exclude old assets)
