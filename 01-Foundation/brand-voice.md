@@ -130,12 +130,21 @@ We talk about "we" and "our families," not "the program" and "students."
 
 ## What We Sound Like
 
-### Example 1: Homepage Hero Copy
-❌ **Wrong:**
-"The Way PDO provides comprehensive early childhood education services in a faith-based environment."
+### Example 1: Homepage Hero Copy (Actual from Website)
+**✅ What We Actually Use:**
+"We nurture hearts and minds through prayer, Bible stories, songs, and hands-on learning experiences that point children to Jesus."
 
-✅ **Right:**
-"We nurture hearts and minds. Through prayer, Bible stories, songs, and hands-on learning, we help your child grow spiritually AND academically — in a safe, loving community."
+**Why This Works:** Clear benefit (hearts AND minds), specific methods (prayer, Bible, songs, hands-on), and ultimate goal (Jesus)—not vague or corporate.
+
+### Example 2: Mission Statement (From Handbook)
+**✅ Our Actual Mission:**
+"Our mission at Parent's Day Out (PDO) & Preschool is to glorify God by:
+- Providing a safe, loving environment for children
+- Teaching children about God and His Son, Jesus Christ
+- Offering stimulating opportunities for creative play
+- Helping children develop social skills through adult and peer interaction"
+
+**Why This Works:** Specific, action-oriented, faith-forward without being preachy, and parents understand exactly what they're getting
 
 ---
 

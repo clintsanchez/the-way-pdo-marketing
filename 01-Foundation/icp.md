@@ -315,7 +315,7 @@ client: "The Way Church PDO and Preschool"
 
 ## Persona Summary Statement
 
-**"Sarah is a 35-year-old married mother of two from Denham Springs who is actively involved in her church and seeks a preschool program that shares her faith values while providing quality academic preparation. She's anxious about her child's safety and wants to see visible progress and genuine relationships with teachers. She discovers options through Facebook, personal referrals, and Google search. She chooses based on alignment with her values, trust in the program, and community feel — not just cost."**
+**"Sarah is a 34-year-old married mother of two from Denham Springs who actively attends The Way Church. She's looking for preschool for her 3-year-old and wants a program that integrates her Christian faith values without compromise. Safety is her primary concern—she wants to know her child is in capable, vetted hands. She discovered The Way PDO through church referrals and Facebook, and she's willing to pay for quality if it aligns with her values. She chooses based on faith alignment, staff credibility, clear communication, and community feel. Word-of-mouth from other church families is her strongest decision factor."**
 
 ---
 

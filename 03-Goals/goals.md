@@ -92,12 +92,19 @@ client: "The Way Church PDO and Preschool"
 ## 90-Day Success Criteria (Current Quarter)
 
 ### Enrollment Targets
-- **Infant Program:** [TBD] enrolled
-- **Toddler Program:** [TBD] enrolled
-- **2-Year-Old Class:** [TBD] enrolled
-- **3-Year-Old Class:** [TBD] enrolled
-- **Pre-K4:** [TBD] enrolled
-- **Total Capacity Target:** [TBD]%
+**Current State:** 25-50 children enrolled | 50-75 capacity | ~50-65% utilization
+
+**90-Day Targets:**
+- **Total Enrollment:** Increase to 55-60 children (75-80% capacity)
+- **Infant Program:** Grow infant slots (highest demand, family-building)
+- **Toddler Programs:** Maintain strong enrollment (stable group)
+- **Preschool (3-4yr):** Target growth (largest potential market)
+- **Total Capacity Target:** 75-80% utilization
+
+**6-Month Targets:**
+- Achieve 65+ children enrolled (85%+ capacity)
+- Fill infant program to near-capacity (highest margin/demand)
+- Build referral pipeline for fall enrollment cycle
 
 ### Marketing & Awareness
 - [ ] Website traffic: [TBD] unique visitors/month
@@ -224,33 +231,40 @@ client: "The Way Church PDO and Preschool"
 ## Biggest Current Challenges
 
 **Primary Challenges to Address:**
-1. [TBD — Ask leadership]
-2. [TBD — Ask leadership]
-3. [TBD — Ask leadership]
+1. **Limited brand awareness outside church network** — Many families in Denham Springs unaware program exists or don't know about faith-based option
+2. **Seasonal enrollment fluctuation** — 10-month school year vs. year-round childcare needs limits some families
+3. **Competing with larger chain preschools** — Limited marketing budget vs. well-funded competitors with more advertising presence
 
 **Barriers to Growth:**
-- [TBD — Market, staffing, facility, budget, etc.]
-- [TBD]
-- [TBD]
+- Marketing visibility (small budget, limited paid advertising presence)
+- Perceived "church-only" positioning (not reaching unchurched families seeking faith values)
+- Limited referral pipeline outside existing parent network
+- Seasonal program limits positioning vs. year-round competitors
 
 **How Marketing Can Help:**
-- [Strategy for each challenge]
-- [Strategy for each challenge]
-- [Strategy for each challenge]
+- Increase Google visibility for "preschool Denham Springs" and "faith-based preschool"
+- Launch email nurture sequences for inquiry follow-up (high conversion potential)
+- Develop referral program to leverage existing happy families
+- Create seasonal campaigns for VBS/Summer Camp (lead generation for fall enrollment)
+- Build social media presence (Facebook) for community engagement and testimonials
+- Develop Google/Facebook ad campaigns during peak enrollment periods (July-August, March-May)
 
 ---
 
-## What Has NOT Worked in the Past
+## Marketing Strengths to Build On
 
-**Failed Initiatives to Avoid:**
-1. [TBD — Ask about past efforts]
-2. [TBD]
-3. [TBD]
+**What IS Working:**
+1. **Word-of-mouth referrals** — Current families are satisfied and referring others (strongest channel)
+2. **Church network** — Built-in community of potential families through The Way Church
+3. **Strong brand values** — Faith integration resonates deeply with ideal customer profile
+4. **Director relationships** — Samantha Glass has established trust and credibility in community
 
-**Lessons Learned:**
-- [What we learned from each failure]
-- [Why it didn't work]
-- [How we'll do differently]
+**How to Amplify:**
+- Formalize referral program (incentivize existing families to refer)
+- Leverage church networks (newsletter, bulletin boards, Sunday announcements)
+- Collect and share parent testimonials and success stories
+- Highlight director expertise and staff credentials
+- Showcase program activities through photos and videos
 
 ---
 
